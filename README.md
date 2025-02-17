@@ -2,6 +2,8 @@
 - 👀 I’m interested in competitive
       programming and other passion projects
 
+<a href="https://visitorbadge.io/status?path=GitHub.com%2FzFa3"><img src="https://api.visitorbadge.io/api/visitors?path=GitHub.com%2FzFa3&countColor=%23ff8a65" /></a>
+
 Email:
 wang1jayden@gmail.com
 
