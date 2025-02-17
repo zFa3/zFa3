@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jayden W (@zFa3)
 - 👀 I’m interested in competitive
       programming and other passion projects
-
-<a href="https://visitorbadge.io/status?path=GitHub.com%2FzFa3"><img src="https://api.visitorbadge.io/api/visitors?path=GitHub.com%2FzFa3&countColor=%23ff8a65" /></a>
+  
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FzFa3"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FzFa3&label=VIEWS&countColor=%23ef8a55&labelStyle=upper" /></a>
 
 Email:
 wang1jayden@gmail.com
