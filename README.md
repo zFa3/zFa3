@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jayden W (@zFa3)
 - 👀 I’m interested in competitive
-      programming and other passion projects
+      programming, AI and other passion projects
+- 💻 Check out my [projects](https://github.com/zFa3?tab=repositories)!
   
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FzFa3"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FzFa3&label=VIEWS&countColor=%23ef8a55&labelStyle=upper" /></a>
 
